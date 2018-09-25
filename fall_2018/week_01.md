@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> This week I played around and brainstormed a dynamic game curriculum
+> The termnial points end up with the games: minesweeper, tic tac toe, snakegame, fish game, super mario
+> Platformers golf archer game, angry bird game, tank game, text base game
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> learn local development environment learn react js 
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Should be able to complete it have a test Thursday so probably wont start until after
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
