@@ -1,14 +1,16 @@
 ## Last Week's Accomplishments
 
-> Started to Reverse Engineering Magic Eight Ball
+> Made a simple counter program/exercise for integers
 
 ## This Week's Plan
 
-> Coming up with exercises for Variables -> strings, boolean, ints
+> Expand integers exercise, maybe a simple calculator?  
 
 ## Anything Blocking?
 
-> Database System's test this Thursday is stressing me out
+> Psoft test, shouldn't be to hard 
 
 ## Notes
 
+> Counter Repository is https://github.com/codingandcommunity/RCOSReactcurriculum.git the 
+branch is EdwinVariableExcercises
