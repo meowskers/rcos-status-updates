@@ -1,0 +1,2 @@
+# Week 1 
+This semster I will be working on the curriculum side of things. To begin with  I started working on the framework and specifications for a curriculum. I have written the introduction and second step in on curriuculum and designed a mini-curriculum. 
