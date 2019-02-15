@@ -7,5 +7,4 @@ Going to try and reorganize the steps this week and continue with the current cu
 # Anthing Blocking?
 Just need to touch base with the group leader make sure that this change is okay
 # Notes
-My commits have been coming in as "wallie" on this repository so I'm going to try and switch
-it so that it lines up with this user name.
+My commits have been coming in as "wallie" on this repository:https://github.com/codingandcommunity/test-project so I'm going to try and switch it so that it lines up with this user name.
